@@ -1,3 +1,11 @@
+FAKE STORE APP
+
+This is an application that uses API data mimic an e-commerce store.  It would allow users to see potentail layouts, add, edit and remove products. 
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
