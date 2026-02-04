@@ -1,0 +1,31 @@
+
+
+.custom-button {
+  text-decoration: none;
+  background-color: rgb(41, 160, 41);
+  padding: 12px;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+}
+
+.custom-button:hover { 
+    color: black;
+}
+
+/*.card {
+  width: 300px;
+  height: 400px;
+  overflow: auto;
+}*/
+
+/*img {
+  width: 150px;
+  height: 200px;  
+}*/
+
+.product-card {
+  width: 600px;
+  height: 800px;
+  overflow: auto;
+}
